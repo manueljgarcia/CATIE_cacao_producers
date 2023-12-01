@@ -20,7 +20,7 @@ survey_data <- read_excel("D:\\OneDrive - Texas Tech University\\WORK\\CATIE\\da
 data <- survey_data[-1, ]
 
 
-
+#Hola este es mi cambio
 # SUMMARY STATISTICS
 #-------------------------------------------------------------------------------
 
